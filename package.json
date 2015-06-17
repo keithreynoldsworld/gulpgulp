@@ -1,0 +1,35 @@
+{
+  "name": "gulpgulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keithreynoldsworld/gulpgulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keithreynoldsworld/gulpgulp/issues"
+  },
+  "homepage": "https://github.com/keithreynoldsworld/gulpgulp",
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.5",
+    "install": "^0.1.8",
+    "lodash.assign": "^3.2.0",
+    "npm": "^2.11.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.2"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}

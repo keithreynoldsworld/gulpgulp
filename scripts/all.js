@@ -1,0 +1,1 @@
+console.error("Error: Parsing file /Users/keithreynolds1/projects/tiy/gulpgulp/scripts/main.js: Unexpected token (6:1)");
